@@ -1,5 +1,8 @@
 # Validation — 24 October 2026
 
+> **Post-packaging record (25 October 2026):** Repository was published and an ElizaOS bounty claim email sent on 24 October at 21:08 UTC. The claim includes transaction hash `0x19360872d70445919de4f5feb11eb2380fdf0f59d93707048e3b060ae87e0f74`; the chain receipt/USDC transfer are **not independently verified** here. This file otherwise preserves the 24 October pre-submission test snapshot; its "Not proven or done" section refers to that earlier time. No organizer review or payout confirmed.
+
+
 Node 24.19.0; ElizaOS core 1.7.2; x402 core/evm/fetch 2.28.0; viem 2.57.11. All are locked in package-lock.json. Original code is MIT and Codex-assisted.
 
 ## Observed checks
