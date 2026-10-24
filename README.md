@@ -1,5 +1,10 @@
 # Blockchain IQ private brief plugin for ElizaOS
 
+## Submission status update — 24–25 October 2026
+
+The repository is now public. An **ElizaOS claim was sent** to `partnerships@blockchainiq.co` on **24 October 2026 at 21:08 UTC**, listing purported Base settlement transaction [`0x19360872d70445919de4f5feb11eb2380fdf0f59d93707048e3b060ae87e0f74`](https://basescan.org/tx/0x19360872d70445919de4f5feb11eb2380fdf0f59d93707048e3b060ae87e0f74). This hash is copied from the outgoing claim and has **not been independently verified on chain** in this environment. As of 25 October, maintainer pass/fail, slot availability and USDC payout are unconfirmed. Below, statements such as "unsubmitted build" or "none" refer to the **earlier packaging snapshot**, not the current email/publication status. A reviewer must independently check settlement and run the native plugin before awarding anything.
+
+
 A native ElizaOS action that buys the fixed Blockchain IQ `/brief` through x402, with an operator-controlled limit of one authorization of at most 0.01 USDC on Base. Original integration by ProMartY, assisted by Codex, under MIT.
 
 At packaging time this is an **unsubmitted build**. No real paid API call, valid settlement proof, public repository, claim email, accepted award or payout has been produced. Offline fixtures do not qualify for the bounty. Framework-slot availability and review timing are unknown.
